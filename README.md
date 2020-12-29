@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is Franklin Okolie, a Software Developer specialized in using Go and JavaScript, Technical writer, and Open source contributor,and you can call me DeveloperAspire. I love building tools for developers, making open source contribution, [writing](https://hasnode.com)., I am also passionate about advocating and onboarding of beginners into the Tech space through providing learning resources, mentorship. Currently I am contributing to                          [Layer5](https://github.com/layer5io). I love making new friends and connections.
-[DeveloperAspire](https://twitter.com/DeveloperAspire)
+
 
 
 
@@ -10,7 +10,7 @@ My name is Franklin Okolie, a Software Developer specialized in using Go and Jav
 - 👯 I’m looking to collaborate on open source projects, public speaking and helping beginners get into the tech space.
 - 💬 Ask me about open source, Tech, Go and Javascript.
 - 😄 Pronouns: He/Him.
-- 📫 How to reach me: [DeveloperAspire](https://twitter.com/DeveloperAspire).[Developer](https://hey.com)
+- 📫 How to reach me: [DeveloperAspire](https://twitter.com/DeveloperAspire).
 
 <!--
 ## 🔧 Technologies & Tools
@@ -46,15 +46,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational??style=plastic&logo=linux&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=tokyonight)
-
--->
 
 
 
