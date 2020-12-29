@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Franklin Okolie, a Software Developer specialized in using Go and JavaScript, Technical writer, and Open source contributor,and you can call me DeveloperAspire. I love building tools for developers, making open source contribution, [writing](https://hasnode.com)., I am also passionate about advocating and onboarding of beginners into the Tech space through providing learning resources, mentorship. Currently I am contributing to                          [Layer5](https://github.com/layer5io). I love making new friends and connections.
+My name is Franklin Okolie, a Software Developer specialized in using Go and JavaScript, Technical writer, and Open source contributor,and you can call me DeveloperAspire. I love building tools for developers, making open source contribution, [writing](https://hashnode.com/@Franklin86).I am also passionate about advocating and onboarding of beginners into the tech space through providing learning resources, mentorship. Currently I am contributing to                          [Layer5](https://github.com/layer5io). I love making new friends and connections.
 
 
 
