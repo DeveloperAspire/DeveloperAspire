@@ -10,7 +10,9 @@ My name is Franklin Okolie, a Software Developer specialized in using Go and Jav
 - 👯 I’m looking to collaborate on open source projects, public speaking and helping beginners get into the tech space.
 - 💬 Ask me about open source, Tech, Go and Javascript.
 - 😄 Pronouns: He/Him.
-- 📫 How to reach me: [DeveloperAspire](https://twitter.com/DeveloperAspire).
+- 📫 How to reach me: 
+     * [DeveloperAspire](https://twitter.com/DeveloperAspire).
+     * [Blog](https://hashnode.com/Franklin86)
 
 <!--
 ## 🔧 Technologies & Tools
