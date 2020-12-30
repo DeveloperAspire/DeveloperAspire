@@ -25,7 +25,7 @@ My name is Franklin Okolie, a Software Developer specialized in using Go and Jav
 -->
 ## &#x1f4c8; GitHub Stats.
 
-![DeveloperAspire's github stats](https://github-readme-stats.vercel.app/api?username=DeveloperAspire&show_icons=true&theme=tokyonight)<br>
+![DeveloperAspire's github stats](https://github-readme-stats.vercel.app/api?username=DeveloperAspire&show_icons=true&theme=dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAspire&layout=compact&theme=tokyonight)](https://github.com/DeveloperAspire)
 
 
