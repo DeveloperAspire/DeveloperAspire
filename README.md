@@ -23,9 +23,12 @@ My name is Franklin Okolie, a Software Developer specialized in using Go and Jav
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=tokyonight)
 
 -->
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=tokyonight)
+
 ## &#x1f4c8; GitHub Stats.
 
-![DeveloperAspire's github stats](https://github-readme-stats.vercel.app/api?username=DeveloperAspire&show_icons=true&theme=radical)<br>
+![DeveloperAspire's github stats](https://github-readme-stats.vercel.app/api?username=DeveloperAspire&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAspire&layout=compact&theme=radical)](https://github.com/DeveloperAspire)
 
 
