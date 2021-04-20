@@ -32,9 +32,10 @@ My name is Franklin Okolie, a Software Developer specialized in using Go and Jav
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAspire&layout=compact&theme=radical)](https://github.com/DeveloperAspire)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DeveloperAspire)
+
 
 <!--
+![trophy](https://github-profile-trophy.vercel.app/?username=DeveloperAspire)
 **DeveloperAspire/DeveloperAspire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
