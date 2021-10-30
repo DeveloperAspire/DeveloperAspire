@@ -6,9 +6,9 @@ My name is Franklin Okolie, a Software Developer specialized in using Go and Jav
 
 
 - 🔭 I’m currently working on my personal development and Tech career.
-- 🌱 I’m currently learning Javascript, CSS, ReactJS and VueJs.
+- 🌱 I’m currently learning JavaScript,TypeScript SCSS,CSS, ReactJS and VueJs.
 - 👯 I’m looking to collaborate on open source projects, public speaking and helping beginners get into the tech space.
-- 💬 Ask me about open source, Tech, Go, and Javascript.
+- 💬 Ask me about open source, Tech, Go, TypeScript and Javascript.
 - 😄 Pronouns: He/Him.
 - 📫 How to reach me: 
      * [DeveloperAspire](https://twitter.com/DeveloperAspire).
