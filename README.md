@@ -30,7 +30,7 @@ My name is Franklin Okolie, a Software Developer specialized in using React, Typ
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TyeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=%#007ACC&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=%#007ACC&color=%#007ACC)
 
 
 
