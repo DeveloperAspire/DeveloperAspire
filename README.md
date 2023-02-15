@@ -44,14 +44,6 @@ My name is Franklin Okolie, a Frontend Engineer specialized in using React, Type
   <tr>
       <td width="333px">
       <p align="center">
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />
-        </a>
-        <p align="center">SCSS</p>
-      </p>
-    </td>
-      <td width="333px">
-      <p align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
         </a>
