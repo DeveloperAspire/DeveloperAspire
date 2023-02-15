@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Franklin Okolie, a Software Developer specialized in using React, TypeScript and JavaScript in building pixel-perfect design, aesthetic and clean user interfaces, with focus on user experience and interaction. I am also a Technical writer and an open source contributor, and you can call me DeveloperAspire. I love building tools for developers, making open source contribution, [writing](https://hashnode.com/@Franklin86).I am also passionate about advocating and onboarding of beginners into the tech space through providing learning resources, mentorship. Currently I am contributing to [Layer5](https://github.com/layer5io). I love making new friends and connections.
+My name is Franklin Okolie, a Frontend Engineer specialized in using React, TypeScript and JavaScript in building pixel-perfect design, aesthetic and clean user interfaces, with focus on user experience and interaction. I am also a Technical writer and an open source contributor, and you can call me DeveloperAspire. I love building tools for developers, making open source contribution, [writing](https://hashnode.com/@Franklin86).I am also passionate about advocating and onboarding of beginners into the tech space through providing learning resources, mentorship. Currently I am contributing to [Layer5](https://github.com/layer5io). I love making new friends and connections.
 
 
 
@@ -40,8 +40,150 @@ My name is Franklin Okolie, a Software Developer specialized in using React, Typ
 
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/>        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="npm" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="50" height="50"/> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="storybook" width="50" height="50"/> 
+<table>
+  <tr>
+      <td width="333px">
+      <p align="center">
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />
+        </a>
+        <p align="center">SCSS</p>
+      </p>
+    </td>
+      <td width="333px">
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+        </a>
+        <p align="center">JavaScript</p>
+      </p>
+    </td>
+    <td width="333px">
+      <p align="center">
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+        </a>
+        <p align="center">TypeScript</p>
+      </p>
+    </td>
+    <td width="333px">
+      <p align="center">
+        <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="40" height="40" alt="Gatsby" /></a>
+        <p align="center">Gatsby</p>
+      </p>
+    </td>
+    <td width="333px">
+    <p align="center">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
+        </a>
+        <p align="center">React</p>
+      </p>
+     </td>
+  </tr>
+  <tr>
+    <td width="333px">
+      <p align="center">
+        <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="40" height="40" alt="GraphQL" /></a>
+        <p align="center">GraphQL</p>
+      </p>
+    </td>
+    <td width="333px">
+      <p align="center">
+        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" alt="Redux" />
+      </a>
+        <p align="center">Redux</p>
+      </p>
+    </td>
+    <td width="333px">
+      <p align="center">
+          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" />
+          </a>
+        <p align="center">Firebase</p>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="333px">
+      <p align="center">
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" />
+        </a>
+        <p align="center">Tailwind</p>
+      </p>
+    </td>
+   <td width="333px">
+      <p align="center">
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" />
+      </a>
+        <p align="center">SASS</p>
+      </p>
+    </td>
+    <td width="333px">
+      <p align="center">
+        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
+      </a>
+        <p align="center">CSS</p>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+     <td width="333px">
+      <p align="center">
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" />
+        </a>
+        <p align="center">Figma</p>
+      </p>
+    </td>
+    <td width="333px">
+       <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
+        </a>
+        <p align="center">HTML5</p>
+    </td>
+    <td width="333px">
+    <p align="center">
+        <a href="https://npmjs.org/" target="_blank" rel="noreferrer" >
+          <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="40" alt="npm"/>
+        </a>
+        <p align="center">NPM</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="333px">
+    <p align="center">
+        <a href="https://netlify.app/" target="_blank" rel="noreferrer" >
+          <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" height="40" alt="netlify"/>
+        </a>
+        <p align="center">Netlify</p>
+    </td>
+    <td width="333px">
+    <p align="center">
+        <a href="https://vercel.com/" target="_blank" rel="noreferrer" >
+          <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="vercel"/>
+        </a>
+        <p align="center">Vercel</p>
+    </td>
+    <td width="333px">
+    <p align="center">
+        <a href="https://www.notion.so/" target="_blank" rel="noreferrer" >
+          <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="40" alt="notion"/>
+        </a>
+        <p align="center">Notion</p>
+    </td>
+  </tr>
+</table>
+
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/>        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="npm" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="50" height="50"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="storybook" width="50" height="50"/>  -->
 
 ## &#x1f4c8; GitHub Stats.
 
