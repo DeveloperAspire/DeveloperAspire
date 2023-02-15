@@ -96,6 +96,14 @@ My name is Franklin Okolie, a Frontend Engineer specialized in using React, Type
         <p align="center">Firebase</p>
       </p>
     </td>
+    <td width="333px">
+      <p align="center">
+          <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue" />
+          </a>
+        <p align="center">Vue</p>
+      </p>
+    </td>
   </tr>
 
   <tr>
@@ -146,29 +154,6 @@ My name is Franklin Okolie, a Frontend Engineer specialized in using React, Type
           <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" height="40" alt="yarn"/>
         </a>
         <p align="center">YARN</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="333px">
-    <p align="center">
-        <a href="https://netlify.app/" target="_blank" rel="noreferrer" >
-          <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" height="40" alt="netlify"/>
-        </a>
-        <p align="center">Netlify</p>
-    </td>
-    <td width="333px">
-    <p align="center">
-        <a href="https://vercel.com/" target="_blank" rel="noreferrer" >
-          <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="vercel"/>
-        </a>
-        <p align="center">Vercel</p>
-    </td>
-    <td width="333px">
-    <p align="center">
-        <a href="https://www.notion.so/" target="_blank" rel="noreferrer" >
-          <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="40" alt="notion"/>
-        </a>
-        <p align="center">Notion</p>
     </td>
   </tr>
 </table>
