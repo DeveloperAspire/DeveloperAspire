@@ -59,12 +59,6 @@ My name is Franklin Okolie, a Frontend Engineer specialized in using React, Type
       </p>
     </td>
     <td width="333px">
-      <p align="center">
-        <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="40" height="40" alt="Gatsby" /></a>
-        <p align="center">Gatsby</p>
-      </p>
-    </td>
-    <td width="333px">
     <p align="center">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
@@ -72,6 +66,12 @@ My name is Franklin Okolie, a Frontend Engineer specialized in using React, Type
         <p align="center">React</p>
       </p>
      </td>
+     <td width="333px">
+      <p align="center">
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next" /></a>
+        <p align="center">Next</p>
+      </p>
+    </td>
   </tr>
   <tr>
     <td width="333px">
@@ -126,14 +126,6 @@ My name is Franklin Okolie, a Frontend Engineer specialized in using React, Type
   </tr>
 
   <tr>
-     <td width="333px">
-      <p align="center">
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" />
-        </a>
-        <p align="center">Figma</p>
-      </p>
-    </td>
     <td width="333px">
        <p align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -144,9 +136,16 @@ My name is Franklin Okolie, a Frontend Engineer specialized in using React, Type
     <td width="333px">
     <p align="center">
         <a href="https://npmjs.org/" target="_blank" rel="noreferrer" >
-          <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="40" alt="npm"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" alt="npm"/>
         </a>
         <p align="center">NPM</p>
+    </td>
+    <td width="333px">
+    <p align="center">
+        <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer" >
+          <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" height="40" alt="yarn"/>
+        </a>
+        <p align="center">YARN</p>
     </td>
   </tr>
   <tr>
