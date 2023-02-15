@@ -131,9 +131,6 @@ My name is Franklin Okolie, a Frontend Engineer specialized in using React, Type
         <p align="center">CSS</p>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td width="333px">
        <p align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -141,6 +138,9 @@ My name is Franklin Okolie, a Frontend Engineer specialized in using React, Type
         </a>
         <p align="center">HTML5</p>
     </td>
+  </tr>
+
+  <tr>
     <td width="333px">
     <p align="center">
         <a href="https://npmjs.org/" target="_blank" rel="noreferrer" >
