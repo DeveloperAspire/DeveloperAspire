@@ -15,31 +15,31 @@ src="https://img.shields.io/github/followers/DeveloperAspire?logo=github&style=f
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://www.typescriptlang.org/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://reactjs.org/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://nextjs.org/docs">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="48" height="48" alt="NextJs" />
       </a>
       <br>Next.js
     </td>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://vuejs.org/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="48" height="48" alt="Vue" />
       </a>
@@ -47,31 +47,31 @@ src="https://img.shields.io/github/followers/DeveloperAspire?logo=github&style=f
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://nuxtjs.org/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="48" height="48" alt="Nuxtjs" />
       </a>
       <br>Nuxt.js
     </td>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://sass-lang.com/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://tailwindcss.com/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
       <br>Tailwind
     </td>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://chakra-ui.com/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="48" height="48" alt="Chakra UI" />
       </a>
       <br>Chakra UI
     </td>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://mui.com/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="48" height="48" alt="Material UI" />
       </a>
@@ -79,29 +79,32 @@ src="https://img.shields.io/github/followers/DeveloperAspire?logo=github&style=f
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://redux.js.org/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://webpack.js.org/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="48" height="48" alt="Webpack" />
       </a>
       <br>Webpack
     </td>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://vitejs.dev/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="48" height="48" alt="Vite" />
       </a>
       <br>Vite
     </td>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://firebase.google.com/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
+    </td>
+    <td align="center" width="20%">
+      <!-- Placeholder to maintain grid structure -->
     </td>
   </tr>
 </table>
@@ -119,4 +122,4 @@ src="https://img.shields.io/github/followers/DeveloperAspire?logo=github&style=f
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/DeveloperAspire"><img src="https://github-readme-stats.vercel.app/api?username=DeveloperAspire&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DeveloperAspire's GitHub stats" /></a>
+<a href="http://www.github.com/DeveloperAspire"><img src="https://github-readme-stats.vercel.app/api?username=DeveloperAspire&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DeveloperAspire's GitHub stats" /></a>
