@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/DeveloperAspire?logo=github&style=f
 
 ## Skills
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="20%">
       <a href="https://www.typescriptlang.org/">
