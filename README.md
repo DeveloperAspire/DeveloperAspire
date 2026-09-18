@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there!
 
-My name is Franklin Okolie, a Frontend and Mobile Engineer with over 4+ years of experience, specialized in using React, React Native, TypeScript in building pixel-perfect design, aesthetic and clean user interfaces, with focus on user experience and interaction. I also write technical articles, build open source tools and contribute to them as well. I love tinkering and building tools for developers, writing.
+My name is Franklin Okolie, a Frontend and Mobile Engineer with over 45+ years of experience, specialized in using React, React Native, TypeScript in building pixel-perfect design, aesthetic and clean user interfaces, with focus on user experience and interaction. I also write technical articles, build open source tools and contribute to them as well. I love tinkering and building tools for developers, writing.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [franklinokolie86@gmail.com](mailto:franklinokolie86@gmail.com)
