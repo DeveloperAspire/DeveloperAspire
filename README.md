@@ -5,7 +5,7 @@ My name is Franklin Okolie, a Frontend and Mobile Engineer with over 4+ years of
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [franklinokolie86@gmail.com](mailto:franklinokolie86@gmail.com)
 * 🚀  I'm currently working on [Lint Finance](http://lint.finance/)
-* 🧠  I'm learning design engineering & AI engineering
+* 🧠  I'm learning web architecture, infrastructure & AI engineering
 * 🤝  I'm open to collaborating on web, mobile, AI and design projects
 
 <a href="https://www.github.com/DeveloperAspire" target="_blank" rel="noreferrer"><img
